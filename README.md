@@ -1,2 +1,4 @@
 # RS-Understanding Martian Processes Through PCA
- 
+In this project, I explored how data science techniques can help us better understand where Martian meteorites come from and what processes formed them. These rocks contain chemical "fingerprints" in the form of isotopic ratios—measurements of how much certain elements exist in different forms.
+I used tools from Python, like pandas, numpy, and seaborn, to organize, clean, and analyze this data. My focus was on five isotope systems commonly used in planetary geology: strontium (Sr), neodymium (Nd), lead (Pb), hafnium (Hf), and osmium (Os).
+I applied Principal Component Analysis, or PCA, to make sense of this complex data. PCA is a statistical method that simplifies large datasets by finding the most important patterns, so instead of looking at 15+ variables, we can understand the data using just two or three key trends.
